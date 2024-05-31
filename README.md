@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Bradley-Zandgrond
-- 👀 I’m interested in Baseball and Gaming
-- 🌱 I’m currently learning How to code effiecient
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm better then u at fortnite
+Naam: Bradley
+Leeftijd: 16 jaar
 
-<!---
-Bradley-Zandgrond/Bradley-Zandgrond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Opleiding: Ik studeer aan het Techniek College Rotterdam (TCR), waar ik me focus op techniek en softwareontwikkeling.
+
+Hobby's en interesses: Mijn grote passie is honkbal, een sport waarin ik me volledig inzet en waarin ik eerste klasse speel. Daarnaast ben ik ook geïnteresseerd in programmeren en technologie.
+
+Vaardigheden:
+
+Management en samenwerking
+Snelle leerling
+HTML/CSS
+JavaScript
+PHP
+Persoonlijkheid: Ik ben een veelzijdig persoon die zowel energiek als rustig kan zijn, afhankelijk van de situatie. Mijn creativiteit en oplettendheid helpen me om problemen effectief op te lossen en nieuwe ideeën te ontwikkelen.
+
+Prestaties: Ik ben trots op mijn programmeerprestaties en het feit dat ik op hoog niveau honkbal speel. Deze successen tonen mijn toewijding en doorzettingsvermogen.
+
+Doelen en ambities: Mijn ultieme doel is om professioneel honkballer te worden. Daarnaast wil ik zoveel mogelijk leren over softwareontwikkeling om mijn vaardigheden verder uit te breiden en te verbeteren.
+
+Met deze beschrijving hoop ik een goed beeld te geven van wie ik ben en wat mijn ambities zijn.
