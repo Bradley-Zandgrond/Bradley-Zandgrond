@@ -3,7 +3,7 @@ Leeftijd: 16 jaar
 
 Opleiding: Ik studeer aan het Techniek College Rotterdam (TCR), waar ik me focus op techniek en softwareontwikkeling.
 
-Hobby's en interesses: Mijn grote passie is honkbal, een sport waarin ik me volledig inzet en waarin ik eerste klasse speel. Daarnaast ben ik ook geïnteresseerd in programmeren en technologie.
+Hobby's en interesses: Mijn grote passie is honkbal, een sport waarin ik me volledig inzet. Daarnaast ben ik ook heel erg geïnteresseerd in programmeren en technologie.
 
 Vaardigheden:
 
